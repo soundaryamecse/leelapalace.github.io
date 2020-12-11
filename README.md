@@ -1,4 +1,4 @@
-<h1>Leela palace<h1>
+<h1>Leela palace</h1>
  <p>When We have Multiple Hotels at multiple places, The main task of the application is to access all the hotels in the single Application. I have mainly concentrated on React Routing DOM to travel from one location to another location</p>
   
   <h1>Tech Stack Used</h1>
